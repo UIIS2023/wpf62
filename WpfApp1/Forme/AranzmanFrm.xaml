@@ -1,0 +1,41 @@
+﻿<Window x:Class="IT73_2022.Forme.AranzmanFrm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IT73_2022.Forme"
+        mc:Ignorable="d"
+        Title="AranzmanFrm" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="327*"/>
+            <ColumnDefinition Width="73*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="txtDrzava" HorizontalAlignment="Left" Margin="240,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtGrad" HorizontalAlignment="Left" Margin="240,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.488,-0.285"/>
+        <TextBox x:Name="txtCena" HorizontalAlignment="Left" Margin="240,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Drzava" HorizontalAlignment="Left" Margin="186,75,0,0" VerticalAlignment="Top"/>
+        <Label Content="Grad" HorizontalAlignment="Left" Margin="196,105,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cena" HorizontalAlignment="Left" Margin="195,135,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnSacuvaj" Content="Sacuvaj" HorizontalAlignment="Left" Margin="242,290,0,0" VerticalAlignment="Top" Click="btnSacuvaj_Click_1"/>
+        <Button x:Name="btnOtkazi" Content="Otkazi" HorizontalAlignment="Left" Margin="322,290,0,0" VerticalAlignment="Top" Click="btnOtkazi_Click_1"/>
+        <ComboBox x:Name="cbHotel" HorizontalAlignment="Left" Margin="240,170,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5">
+            <ComboBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.121"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ComboBox.RenderTransform>
+        </ComboBox>
+        <ComboBox x:Name="cbAgent" HorizontalAlignment="Left" Margin="240,200,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cbIzlet" HorizontalAlignment="Left" Margin="240,230,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cbPrevoznik" HorizontalAlignment="Left" Margin="240,260,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Hotel" HorizontalAlignment="Left" Margin="194,166,0,0" VerticalAlignment="Top"/>
+        <Label Content="Agent" HorizontalAlignment="Left" Margin="191,197,0,0" VerticalAlignment="Top"/>
+        <Label Content="Izlet" HorizontalAlignment="Left" Margin="201,228,0,0" VerticalAlignment="Top"/>
+        <Label Content="Prevoznik" HorizontalAlignment="Left" Margin="173,257,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

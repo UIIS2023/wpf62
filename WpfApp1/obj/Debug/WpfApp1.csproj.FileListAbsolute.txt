@@ -1,0 +1,60 @@
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\AgentFrm.g.cs
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\AranzmanFrm.g.cs
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\HotelFrm.g.cs
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\IzletFrm.g.cs
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\KlijentFrm.g.cs
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\PrevoznikFrm.g.cs
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\SobaFrm.g.cs
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\AgentFrm.baml
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\AranzmanFrm.baml
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\HotelFrm.baml
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\IzletFrm.baml
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\KlijentFrm.baml
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\PrevoznikFrm.baml
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\SobaFrm.baml
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Mihailo\Desktop\IT73-2022\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\AgentFrm.g.cs
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\AranzmanFrm.g.cs
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\HotelFrm.g.cs
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\IzletFrm.g.cs
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\KlijentFrm.g.cs
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\PrevoznikFrm.g.cs
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\SobaFrm.g.cs
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\AgentFrm.baml
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\AranzmanFrm.baml
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\HotelFrm.baml
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\IzletFrm.baml
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\KlijentFrm.baml
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\PrevoznikFrm.baml
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\Forme\SobaFrm.baml
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Mihailo\Desktop\New folder\IT73-2022-projekat\IT73_2022_app\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
